@@ -76,7 +76,7 @@ public class Main {
 
     /**
      * @param g the graph to check.
-     * @return true once all vertices are visted, false otherwise.
+     * @return true once all vertices are visited, false otherwise.
      */
     private static boolean allKnown(Node[] g) {
         for (Node n : g) {
